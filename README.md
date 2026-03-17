@@ -19,7 +19,7 @@ technical sales — and I spend my off-hours building the technical skills to
 work closer to the product and infrastructure layer.
 
 My background spans onboarding and retaining enterprise accounts at companies
-like Yelp, PitchBook, and NTT Data and various seed stage startups.
+like Yelp, PitchBook, NTT Data, and various seed stage startups.
 ---
 
 ## Certifications
