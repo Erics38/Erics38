@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Eric 👋
+# Hi, I'm Eric
 
 **Customer Success & SaaS Professional | AWS Certified | Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-syvertsen38/)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Location](https://img.shields.io/badge/Seattle%2C_WA-📍-4CAF50?style=for-the-badge)](https://github.com/Erics38)
+[![Location](https://img.shields.io/badge/Seattle%2C_WA-4CAF50?style=for-the-badge)](https://github.com/Erics38)
 
 </div>
 
@@ -34,14 +34,14 @@ like Yelp, PitchBook, NTT Data, and various seed stage startups.
 
 ## What I'm Building
 
-### 🤖 [Restaurant AI Chatbot](https://github.com/Erics38/restaurant-ai-chatbot)
+### [Restaurant AI Chatbot](https://github.com/Erics38/restaurant-ai-chatbot)
 A local LLM-powered ordering assistant built with FastAPI, Docker, and the Phi-2
 model. Demonstrates conversational AI integration, containerized deployment, and
 REST API design — patterns directly relevant to SaaS onboarding tooling.
 
 **Stack:** Python · FastAPI · Docker · llama.cpp · SQLite · CI/CD
 
-### 🔄 [Weather Notification Workflow](https://github.com/Erics38/n8n-weather-notification)
+### [Weather Notification Workflow](https://github.com/Erics38/n8n-weather-notification)
 An automated weather alert system built with n8n — the same no-code workflow
 automation platform used by SaaS teams to power customer lifecycle triggers,
 onboarding sequences, and health score alerts.
@@ -66,9 +66,9 @@ Tools:        Git · GitHub Actions · VS Code · Claude Code
 
 ## Currently Exploring
 
-- 📊 **Databricks** — Data engineering and the Lakehouse architecture
-- 🛠️ **Forward Deployed Engineering** — Technical implementation work at the customer layer
-- 🤖 **AI-powered onboarding tooling** — Using LLMs to accelerate time-to-value for new SaaS customers
+- **Databricks** — Data engineering and the Lakehouse architecture
+- **Forward Deployed Engineering** — Technical implementation work at the customer layer
+- **AI-powered onboarding tooling** — Using LLMs to accelerate time-to-value for new SaaS customers
 
 ---
 
@@ -82,5 +82,5 @@ or anything at the edge of customer success and engineering.
 ---
 
 <div align="center">
-<sub>Built with curiosity, caffeine, and Claude Code ☕</sub>
+<sub>Built with Claude Code</sub>
 </div>
