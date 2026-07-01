@@ -14,7 +14,7 @@
 
 ## About Me
 
-I have 5+ years in B2B SaaS across customer success, account management, and
+I have 6+ years in B2B SaaS across customer success, account management, and
 technical sales — and I spend my off-hours building the technical skills to
 work closer to the product and infrastructure layer.
 
