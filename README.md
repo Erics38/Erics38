@@ -66,7 +66,7 @@ Tools:        Git · GitHub Actions · VS Code · Claude Code
 
 ## Currently Exploring
 
-- **Databricks** — Data engineering and the Lakehouse architecture
+- **Cyber Security** — Data engineering and threat detection
 - **Forward Deployed Engineering** — Technical implementation work at the customer layer
 - **AI-powered onboarding tooling** — Using LLMs to accelerate time-to-value for new SaaS customers
 
